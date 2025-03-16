@@ -1,2 +1,4 @@
 speechgen-env/
 .idea/
+output/
+*.mp3
